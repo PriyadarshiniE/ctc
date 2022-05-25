@@ -5,9 +5,5 @@ public class string {
 			String s2="java";  
 			String s=s1+s2;
 			System.out.println("string length is: "+s.length());
-			
-			 
-
 	}
-
 }
